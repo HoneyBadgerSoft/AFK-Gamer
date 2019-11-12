@@ -1,9 +1,14 @@
 # AFK-Gamer
-I Wrote this app for automating small mundane tasks in Eve Online such as clicking directional scanner every 5 seconds or warping to zero. over and over again. An app for automating tasks in games. 
-This application can be used to automate various small tasks.
+I Wrote AFK-Gamer to free up my time while playing Eve Online. 
+So what it allows you to do, if you configure it right, is to automate mundane tasks in Eve Online.
+
+# What can it automate?
+Any small task but the following may interest you:
+• Automating DSCAN
+• Automating "warp to zero"
 
 # Plugins - Eve Directional Scan Interpreter
-When copying directional scan results from Eve Online, the application calculates what ships have appeared on DSCAN and which have disappeared and then announces this verbally using the windows text to speech synthesizer.
+When copying directional scan results from Eve Online, the application calculates which ships have appeared on DSCAN and which have disappeared and then announces this verbally using the windows text to speech synthesizer. This means you can sit back and do something you enjoy while AFK-Gamer does the scanning and notification of DSCAN object changes for you. 
 
 
 Copyright HoneyBadgerSoft 2019
