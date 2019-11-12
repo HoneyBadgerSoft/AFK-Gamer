@@ -1,9 +1,13 @@
 # AFK-Gamer
-I Wrote AFK-Gamer to free up my time while playing Eve Online. 
-So what it allows you to do, if you configure it right, is to automate mundane tasks in Eve Online such as DSCANNING and warping to zero. 
+Allows you to automate mundane tasks in EVE-Online such as DSCANNING and warping to zero. 
 
-# Plugins - Eve Directional Scan Interpreter
-When copying directional scan results from Eve Online, the application calculates which ships have appeared on DSCAN and which have disappeared and then announces this verbally using the windows text to speech synthesizer. This means you can sit back and do something you enjoy while AFK-Gamer does the scanning and notification of DSCAN object changes for you. 
+# Eve Directional Scan Analyzer
+When copying directional scan results from Eve Online, AFK-Gamer can calculate which ships have appeared and disappeared on DSCAN. When a something is picked up or changes on DSCAN you will be alerted. 
+This means you can sit back and relax while AFK-Gamer does the work for you.
+
+# Disclaimer
+Currently AFK-Gamer is available on a perpetual trial basis which requires downloading and installing the latest version every 14 days. This model may change in the future. 
+You take full responsibility for using this software.
 
 
 Copyright HoneyBadgerSoft 2019
